@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    Hello world.
+<h1>Hello, PHP!</h1>
+    <?php
+        echo "This is a PHP page.";
+    ?>
 </body>
 </html>
